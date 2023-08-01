@@ -1,4 +1,4 @@
-# Hotel-Booking-Data-Analysis
+# Hotel-Data-Analysis
 ## ABOUT
 Building a visual data story for Hotel Booking Data using PowerBI and answering following Business Questions:
 1.	Is our hotel revenue growing yearly? (Segment the revenue by two hotel types)
