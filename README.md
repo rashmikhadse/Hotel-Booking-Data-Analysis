@@ -1,6 +1,6 @@
 # Hotel-Data-Analysis
 ## ABOUT
-Building a visual data story for Hotel Booking Data using PowerBI and answering following Business Questions:
+Building a visual data story for Hotel Data using PowerBI and answering following Business Questions:
 1.	Is our hotel revenue growing yearly? (Segment the revenue by two hotel types)
 2.	Should we increase our parking lot size? (Find if there is a trend in guests with personal cars)
 3.	What trends can we see in the data? (Focus on average daily rate and guests to explore seasonality)
